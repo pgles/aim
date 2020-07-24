@@ -1,3 +1,5 @@
+The screenshot of working model can be found at: https://drive.google.com/file/d/1Df72t1wuEwA5U7Wa0FNERgCG30xOeWyB/view?usp=sharing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
